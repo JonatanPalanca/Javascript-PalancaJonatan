@@ -189,6 +189,12 @@ a:active {
   animation: desplazamiento 0.5s ease-in-out;
 }
 
+/* Ocultar menú de hamburguesa en pantalla de escritorio */
+@media only screen and (min-width: 768px) {
+  .hamburguesa {
+    display: none;
+  }
+}
 .hamburguesa:hover {
   cursor: pointer;
 }
@@ -200,7 +206,49 @@ a:active {
   height: 0.5rem;
   margin-bottom: 0.5rem;
 }
+/* Estilos para la barra de navegación en la vista de escritorio */
+@media only screen and (min-width: 768px) {
+  .nav-menu {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
 
+  .nav-menu li {
+    margin-right: 10px;
+    white-space: nowrap;
+  }
+
+  .nav-menu li:last-child {
+    margin-right: 0;
+  }
+
+  .nav-menu li a {
+    color: var(--blanco);
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 5px;
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+
+  .nav-menu li a:hover {
+    color: var(--rosa);
+  }
+}
+
+/* Ocultar el menú de navegación en la vista móvil */
+@media only screen and (max-width: 767px) {
+  .nav-menu {
+    display: none;
+  }
+
+  .hamburguesa {
+    display: block;
+  }
+}
 /*video*/
 
 .contenido-header {
