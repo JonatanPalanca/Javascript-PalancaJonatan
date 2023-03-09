@@ -1,0 +1,57 @@
+.contenedor-nosotros {
+  padding-top: 5rem;
+  .texto-nosotros {
+    .bienvenida {
+      display: flex;
+      font-size: 4rem;
+      color: var(--rosa);
+      text-align: center;
+      justify-content: center;
+    }
+    h1 {
+      font-size: 5rem;
+      text-align: center;
+    }
+    p {
+      font-size: 2rem;
+      text-align: center;
+    }
+  }
+  .texto-nosotros,
+  .imagenes-nosotros {
+    flex: 0 0 calc(50% - 1rem);
+  }
+  .imagenes-nosotros {
+    display: flex;
+    justify-content: space-between;
+    img {
+      border-radius: 5px;
+    }
+    .imagen1,
+    .imagenes2 {
+      flex: 0 0 calc(50% - 1rem);
+      img {
+        margin-bottom: 1rem;
+      }
+    }
+  }
+}
+@media (min-width: 768px) {
+  .contenedor-nosotros {
+    display: flex;
+    justify-content: space-between;
+    .texto-nosotros .bienvenida {
+      text-align: left;
+      h1 {
+        text-align: left;
+      }
+      p {
+        text-align: left;
+      }
+    }
+  }
+}
+
+.menu {
+  padding-top: 4rem;
+}
