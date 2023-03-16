@@ -259,7 +259,7 @@ a:active {
   align-items: center;
   justify-content: center;
 }
-.contenido-header .texto-encabezado h2 {
+.contenido-header .texto-encabezado h1 {
   color: var(--rosa);
   font-size: 4rem;
 }
@@ -340,7 +340,7 @@ a:active {
   padding-top: 4rem;
 }
 
-.chef h2 {
+.chef h1 {
   background-color: var(--rojo);
   display: inline-block;
   padding: 1rem 3rem;
@@ -439,7 +439,7 @@ a:active {
   background-color: var(--oscuro);
   padding: 2rem;
 }
-.informacion-contacto h3 {
+.informacion-contacto h1 {
   font-size: 4rem;
   font-family: var(--titulos);
 }
@@ -458,7 +458,7 @@ a:active {
   flex: 0 0 calc(50% - 1rem);
 }
 
-.informacion-contacto h3,
+.informacion-contacto h1,
 .informacion-contacto p,
 .redes-sociales i {
   color: var(--blanco);

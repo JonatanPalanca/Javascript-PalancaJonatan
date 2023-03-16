@@ -10,7 +10,7 @@
   align-items: center;
   background-color: var(--oscuro);
   padding: 2rem;
-  h3 {
+  h1 {
     font-size: 4rem;
     font-family: var(--titulos);
   }
@@ -30,7 +30,7 @@
   flex: 0 0 calc(50% - 1rem);
 }
 
-.informacion-contacto h3,
+.informacion-contacto h1,
 .informacion-contacto p,
 .redes-sociales i {
   color: var(--blanco);
