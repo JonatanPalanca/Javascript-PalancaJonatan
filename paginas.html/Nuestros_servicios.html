@@ -64,6 +64,17 @@
     </header>
     <section class="menu contenedor">
       <h1 class="texto-platillos">Nuestros Servicios</h1>
+      <div class="carrito">
+        <h2>Carrito de compras</h2>
+        <ul class="carrito-lista">
+          <!-- aquí se agregarán los elementos del carrito -->
+        </ul>
+        <div class="carrito-total">
+          <p>Total:</p>
+          <p class="total-precio">$0</p>
+        </div>
+        <button class="carrito-vaciar">Vaciar carrito</button>
+      </div>
       <div class="botones-platillos">
         <button class="todos btn btn-rosa">Todos</button>
         <button class="Desayuno btn btn-rosa">Desayuno</button>
@@ -77,8 +88,8 @@
           <h2>Desayuno</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$4000</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Desayuno">
@@ -86,8 +97,8 @@
           <h2>Desayuno</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$4500</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Desayuno">
@@ -95,8 +106,8 @@
           <h2>Desayuno</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$4300</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Pastel">
@@ -104,8 +115,8 @@
           <h2>Pastel</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$3000</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Pastel">
@@ -113,8 +124,8 @@
           <h2>Pastel</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$3200</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Pastel">
@@ -122,8 +133,8 @@
           <h2>Pastel</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$3400</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Tarta">
@@ -131,8 +142,8 @@
           <h2>Tarta</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$2000</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Tarta">
@@ -140,8 +151,8 @@
           <h2>Tarta</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$2500</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="Tarta">
@@ -149,8 +160,8 @@
           <h2>Tarta</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$2300</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="postre">
@@ -158,8 +169,8 @@
           <h2>Postre</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$1200</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="postre">
@@ -167,8 +178,8 @@
           <h2>Postre</h2>
           <p>crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$1300</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
         <div class="platillo" data-platillo="postre">
@@ -176,8 +187,8 @@
           <h2>Postre</h2>
           <p>Crema, chocolate,dulce de leche, manteca, frutas.</p>
           <div class="precio">
-            <p>$40.0</p>
-            <button><i class="fas fa-shopping-basket"></i></button>
+            <p>$1500</p>
+            <button class="agregar-carrito">Agregar al carrito</button>
           </div>
         </div>
       </div>
