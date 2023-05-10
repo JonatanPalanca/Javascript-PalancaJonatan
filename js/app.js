@@ -93,6 +93,12 @@ const limpiarHtml = (contenedor) => {
 // Inicializar el carrito vacío //
 let carrito = [];
 
+// Recuperar el carrito del almacenamiento local al cargar la página
+if (localStorage.getItem("carrito")) {
+  carrito = JSON.parse(localStorage.getItem("carrito"));
+  actualizarCarrito();
+}
+
 // Obtener referencia al botón de agregar al carrito //
 const botonesAgregar = document.querySelectorAll(".platillo .precio button");
 
@@ -144,6 +150,9 @@ function actualizarCarrito() {
       actualizarCarrito();
     });
   });
+
+  // Guardar el carrito en el almacenamiento local
+  localStorage.setItem("carrito", JSON.stringify(carrito));
 
   // Actualizar el total //
   const total = carrito.reduce(function (total, platillo) {
