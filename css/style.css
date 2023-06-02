@@ -301,26 +301,34 @@ a:active {
   font-size: 2rem;
   text-align: center;
 }
-.contenedor-nosotros .texto-nosotros,
-.contenedor-nosotros .imagenes-nosotros {
-  flex: 0 0 calc(50% - 1rem);
-}
-.contenedor-nosotros .imagenes-nosotros {
+.contenedor-nosotros {
   display: flex;
-  justify-content: space-between;
-}
-.contenedor-nosotros .imagenes-nosotros img {
-  border-radius: 5px;
-}
-.contenedor-nosotros .imagenes-nosotros .imagen1,
-.contenedor-nosotros .imagenes-nosotros .imagenes2 {
-  flex: 0 0 calc(50% - 1rem);
-}
-.contenedor-nosotros .imagenes-nosotros .imagen1 img,
-.contenedor-nosotros .imagenes-nosotros .imagenes2 img {
-  margin-bottom: 1rem;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
+.texto-nosotros {
+  /* Estilos del texto */
+  margin-bottom: 20px; /* Espacio inferior para separar del elemento de la galería */
+}
+.button-container {
+  margin-top: 10px;
+}
+
+.change-photo-button {
+  padding: 10px 20px;
+  background-color: #ee9696;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.change-photo-button:hover {
+  background-color: #23527c;
+}
 @media (min-width: 768px) {
   .contenedor-nosotros {
     display: flex;
@@ -408,6 +416,16 @@ a:active {
 }
 
 .carrito-vaciar {
+  background-color: #d9534f;
+  border: none;
+  color: white;
+  font-weight: bold;
+  margin-top: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.carrito-comprar {
   background-color: #d9534f;
   border: none;
   color: white;

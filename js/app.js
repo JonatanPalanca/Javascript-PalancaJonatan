@@ -31,7 +31,7 @@ const observer = new IntersectionObserver((entries, observer) => {
 imagenes.forEach((imagen) => {
   observer.observe(imagen);
 });
-// fin "lazy loading" // lo agregue en el curso de html sacado de internet investigar más!!
+// fin "lazy loading" //
 
 // Filtrar los platillos según su tipo //
 function platillos() {
@@ -192,7 +192,7 @@ botonesAgregarCarrito.forEach(function (botonAgregarCarrito) {
   });
 });
 
-//---MENU--//  lo agregue en el curso de html, sacado de internet revisar a futuro!!!!
+//---MENU--//
 const eventos = () => {
   menu.addEventListener("click", abrirMenu);
 };
@@ -230,3 +230,31 @@ const cerrarMenu = (boton, overlay) => {
 };
 
 //--FIN MENU--//
+
+// Obtener referencia al botón "Comprar"
+const btnComprar = document.querySelector(".carrito-comprar");
+
+// Agregar evento click al botón "Comprar"
+btnComprar.addEventListener("click", () => {
+  const carritoLista = document.querySelector(".carrito-lista");
+  const elementosCarrito = carritoLista.querySelectorAll("li");
+
+  if (elementosCarrito.length > 0) {
+    // Mostrar alerta de SweetAlert
+    Swal.fire({
+      title: "Compra confirmada",
+      icon: "success",
+      confirmButtonText: "Aceptar",
+    });
+  } else {
+    // Mostrar mensaje de error si no hay elementos en el carrito
+    Swal.fire({
+      title: "Carrito vacío",
+      text: "No hay elementos en el carrito",
+      icon: "error",
+      confirmButtonText: "Aceptar",
+    });
+  }
+});
+
+////////////////////////////////////////
