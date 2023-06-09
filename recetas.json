@@ -1,0 +1,444 @@
+{
+  "recetas": [
+    {
+      "nombre": "Cheesecake de fresa",
+      "descripcion": "Irresistible cheesecake de fresa con base de galleta",
+      "ingredientes": [
+        "200 g de galletas Digestive",
+        "100 g de mantequilla derretida",
+        "500 g de queso crema",
+        "200 g de azúcar",
+        "3 huevos",
+        "200 ml de crema agria",
+        "1 cucharadita de extracto de vainilla",
+        "200 g de fresas",
+        "3 cucharadas de azúcar glass"
+      ],
+      "instrucciones": "1. Tritura las galletas Digestive en un procesador de alimentos y mezcla las migas con la mantequilla derretida. Presiona la mezcla en el fondo de un molde desmontable y reserva en el refrigerador.\n\n2. En un tazón grande, bate el queso crema con el azúcar hasta obtener una mezcla suave. Agrega los huevos uno a uno, batiendo bien después de cada adición. Incorpora la crema agria y el extracto de vainilla.\n\n3. Vierte la mezcla de queso crema sobre la base de galleta en el molde. Hornea a 160 °C durante aproximadamente 1 hora o hasta que el centro esté casi firme.\n\n4. Deja enfriar completamente y luego refrigera durante al menos 4 horas o durante toda la noche.\n\n5. Antes de servir, decora el cheesecake con fresas frescas cortadas en rodajas y espolvorea azúcar glass por encima."
+    },
+    {
+      "nombre": "Cupcakes de vainilla",
+      "descripcion": "Tiernos cupcakes de vainilla con frosting de crema de mantequilla",
+      "ingredientes": [
+        "1 3/4 tazas de harina",
+        "1 1/2 cucharaditas de polvo de hornear",
+        "1/2 cucharadita de sal",
+        "1/2 taza de mantequilla a temperatura ambiente",
+        "1 taza de azúcar",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "3/4 taza de leche",
+        "Para el frosting:",
+        "1 taza de mantequilla a temperatura ambiente",
+        "4 tazas de azúcar glass",
+        "2 cucharaditas de extracto de vainilla",
+        "2-3 cucharadas de leche"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y coloca capacillos de papel en un molde para cupcakes.\n\n2. En un tazón, tamiza la harina, el polvo de hornear y la sal. Reserva.\n\n3. En otro tazón, bate la mantequilla y el azúcar hasta obtener una mezcla suave y esponjosa. Agrega los huevos uno a uno, batiendo bien después de cada adición. Incorpora el extracto de vainilla.\n\n4. Añade la mitad de la mezcla de harina al tazón de la mantequilla y mezcla bien. Agrega la leche y luego el resto de la mezcla de harina. Mezcla hasta obtener una masa homogénea.\n\n5. Vierte la masa en los capacillos, llenándolos aproximadamente hasta 2/3 de su capacidad. Hornea por 18-20 minutos o hasta que al insertar un palillo en el centro de un cupcake, este salga limpio.\n\n6. Mientras los cupcakes se enfrían, prepara el frosting. En un tazón, bate la mantequilla hasta que esté suave y esponjosa. Agrega el azúcar glass en varias adiciones, batiendo bien después de cada adición. Incorpora el extracto de vainilla y la leche, y sigue batiendo hasta obtener un frosting cremoso.\n\n7. Decora los cupcakes con el frosting usando una manga pastelera o una espátula. Opcionalmente, puedes agregar decoraciones adicionales como chispas de colores o frutas frescas."
+    },
+    {
+      "nombre": "Tarta de manzana",
+      "descripcion": "Deliciosa tarta de manzana con crujiente de canela",
+      "ingredientes": [
+        "Masa de tarta",
+        "4-5 manzanas",
+        "1/2 taza de azúcar",
+        "2 cucharadas de harina",
+        "1 cucharadita de canela en polvo",
+        "Jugo de medio limón",
+        "Para el crujiente:",
+        "1/2 taza de harina",
+        "1/2 taza de azúcar",
+        "1/4 taza de mantequilla fría",
+        "1 cucharadita de canela en polvo"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y prepara la masa de tarta en un molde para tarta. Reserva.\n\n2. Pele y corta las manzanas en rodajas finas. En un tazón grande, mezcla las rodajas de manzana con el azúcar, la harina, la canela y el jugo de limón.\n\n3. Coloca las rodajas de manzana sobre la masa de tarta en capas, cubriendo toda la superficie.\n\n4. Para preparar el crujiente, mezcla la harina, el azúcar y la canela en un tazón. Agrega la mantequilla fría y desmenuza con los dedos hasta obtener una textura de migas.\n\n5. Espolvorea el crujiente de canela sobre las manzanas en la tarta.\n\n6. Hornea la tarta durante 40-45 minutos o hasta que esté dorada y las manzanas estén tiernas.\n\n7. Deja enfriar antes de servir. Puedes acompañar con helado de vainilla si deseas."
+    },
+    {
+      "nombre": "Éclair de chocolate",
+      "descripcion": "Clásico éclair relleno de crema de chocolate",
+      "ingredientes": [
+        "1/2 taza de agua",
+        "1/2 taza de leche",
+        "1/2 taza de mantequilla",
+        "1 taza de harina",
+        "4 huevos",
+        "Para la crema de chocolate:",
+        "2 tazas de leche",
+        "4 yemas de huevo",
+        "1/2 taza de azúcar",
+        "1/4 taza de harina",
+        "1/4 taza de cacao en polvo",
+        "1 cucharadita de extracto de vainilla",
+        "150 g de chocolate negro",
+        "Para el glaseado de chocolate:",
+        "1 taza de azúcar glass",
+        "2 cucharadas de cacao en polvo",
+        "2-3 cucharadas de agua caliente"
+      ],
+      "instrucciones": "1. En una cacerola, combina el agua, la leche y la mantequilla. Lleva a fuego medio hasta que la mantequilla se derrita y la mezcla comience a hervir. Retira del fuego y agrega la harina de una vez, revolviendo rápidamente hasta formar una masa homogénea.\n\n2. Transfiere la masa a un tazón y deja enfriar ligeramente. Agrega los huevos de uno en uno, batiendo bien después de cada adición, hasta obtener una masa suave y brillante.\n\n3. Coloca la masa en una manga pastelera con boquilla redonda y forma éclairs alargados sobre una bandeja para hornear forrada con papel de hornear. Hornea a 200 °C durante 15-20 minutos o hasta que estén dorados y crujientes.\n\n4. Mientras tanto, prepara la crema de chocolate. En una cacerola, calienta la leche hasta que comience a hervir. En un tazón aparte, bate las yemas de huevo, el azúcar, la harina y el cacao en polvo. Vierte la leche caliente sobre la mezcla de yemas, revolviendo constantemente.\n\n5. Regresa la mezcla a la cacerola y cocina a fuego medio-bajo hasta que espese, revolviendo constantemente. Retira del fuego y agrega el extracto de vainilla y el chocolate negro picado. Mezcla hasta que el chocolate se derrita y la crema esté suave.\n\n6. Corta los éclairs por la mitad y rellénalos con la crema de chocolate.\n\n7. Para el glaseado de chocolate, mezcla el azúcar glass, el cacao en polvo y el agua caliente hasta obtener una consistencia suave y brillante. Cubre la parte superior de los éclairs con el glaseado de chocolate.\n\n8. Deja enfriar antes de servir. Puedes decorar con hilos de chocolate o nueces picadas si lo deseas."
+    },
+    {
+      "nombre": "Tiramisú",
+      "descripcion": "Postre italiano clásico con capas de bizcocho, café y crema de mascarpone",
+      "ingredientes": [
+        "200 g de bizcochos de soletilla",
+        "2 tazas de café fuerte",
+        "3 cucharadas de licor de café o ron",
+        "3 huevos",
+        "3/4 taza de azúcar",
+        "500 g de queso mascarpone",
+        "Cacao en polvo para espolvorear"
+      ],
+      "instrucciones": "1. Prepara el café fuerte y déjalo enfriar. Agrega el licor de café o ron al café frío y reserva.\n\n2. Separa las claras de las yemas de los huevos. Bate las yemas con el azúcar hasta obtener una mezcla espumosa. Agrega el queso mascarpone y mezcla bien hasta obtener una crema suave.\n\n3. En otro tazón, bate las claras de huevo a punto de nieve. Agrega las claras batidas a la mezcla de mascarpone y yemas, y mezcla suavemente hasta combinar.\n\n4. Remoja los bizcochos de soletilla uno a uno en el café con licor y colócalos en el fondo de un molde rectangular.\n\n5. Cubre los bizcochos con una capa de crema de mascarpone. Repite las capas de bizcochos y crema hasta terminar con una capa de crema en la parte superior.\n\n6. Refrigera el tiramisú durante al menos 4 horas o toda la noche para que los sabores se mezclen y el postre se asiente.\n\n7. Antes de servir, espolvorea generosamente con cacao en polvo. Corta en porciones y disfruta."
+    },
+    {
+      "nombre": "Cupcakes de fresa",
+      "descripcion": "Deliciosos cupcakes con sabor a fresa y frosting de crema de mantequilla",
+      "ingredientes": [
+        "1 1/2 tazas de harina",
+        "1 1/2 cucharaditas de polvo de hornear",
+        "1/4 cucharadita de sal",
+        "1/2 taza de mantequilla sin sal, a temperatura ambiente",
+        "1 taza de azúcar",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "1/2 taza de leche",
+        "1/2 taza de puré de fresas",
+        "Para el frosting de crema de mantequilla:",
+        "1 taza de mantequilla sin sal, a temperatura ambiente",
+        "4 tazas de azúcar glass",
+        "1/4 taza de leche",
+        "1 cucharadita de extracto de vainilla",
+        "Colorante rosa (opcional)",
+        "Fresas frescas para decorar"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y prepara los moldes para cupcakes con papelitos.\n\n2. En un tazón, tamiza la harina, el polvo de hornear y la sal. Reserva.\n\n3. En otro tazón, bate la mantequilla y el azúcar hasta obtener una mezcla suave y cremosa. Agrega los huevos, uno a uno, batiendo bien después de cada adición. Incorpora el extracto de vainilla.\n\n4. Agrega la mitad de la mezcla de harina tamizada al tazón de la mantequilla, seguida de la leche y el puré de fresas. Mezcla bien. Luego, agrega el resto de la harina y mezcla hasta que todos los ingredientes estén combinados.\n\n5. Divide la masa entre los moldes para cupcakes, llenando cada uno aproximadamente 2/3 de su capacidad.\n\n6. Hornea los cupcakes durante 18-20 minutos o hasta que al insertar un palillo en el centro, este salga limpio. Deja enfriar completamente.\n\n7. Mientras tanto, prepara el frosting de crema de mantequilla. En un tazón grande, bate la mantequilla hasta que esté suave y esponjosa. Agrega gradualmente el azúcar glass, la leche y el extracto de vainilla. Continúa batiendo hasta obtener una crema suave y firme. Si lo deseas, puedes agregar colorante rosa para darle un tono más intenso.\n\n8. Decora los cupcakes con el frosting de crema de mantequilla y coloca una fresa fresca en la parte superior de cada uno.\n\n9. Sirve y disfruta de estos deliciosos cupcakes de fresa."
+    },
+    {
+      "nombre": "Rollitos de canela",
+      "descripcion": "Rollos dulces y esponjosos con un delicioso relleno de canela y glaseado",
+      "ingredientes": [
+        "Para la masa:",
+        "4 1/2 tazas de harina",
+        "1/2 taza de azúcar",
+        "2 1/4 cucharaditas de levadura instantánea",
+        "1/2 cucharadita de sal",
+        "1 1/2 tazas de leche tibia",
+        "1/4 taza de mantequilla derretida",
+        "2 huevos",
+        "Para el relleno de canela:",
+        "1/2 taza de mantequilla blanda",
+        "1 taza de azúcar moreno",
+        "2 cucharadas de canela en polvo",
+        "Para el glaseado:",
+        "1 taza de azúcar glass",
+        "1-2 cucharadas de leche",
+        "1 cucharadita de extracto de vainilla"
+      ],
+      "instrucciones": "1. En un tazón grande, combina la harina, el azúcar, la levadura y la sal. Agrega la leche tibia, la mantequilla derretida y los huevos. Mezcla hasta obtener una masa suave y elástica.\n\n2. Amasa la masa en una superficie enharinada durante unos minutos. Luego, coloca la masa en un tazón engrasado, cubre con un paño y deja reposar en un lugar cálido hasta que duplique su tamaño, aproximadamente 1 hora.\n\n3. Mientras tanto, prepara el relleno de canela. En un tazón pequeño, mezcla la mantequilla blanda, el azúcar moreno y la canela en polvo hasta obtener una pasta suave.\n\n4. Una vez que la masa haya duplicado su tamaño, extiéndela en un rectángulo grande sobre una superficie enharinada.\n\n5. Unta uniformemente el relleno de canela sobre la masa extendida.\n\n6. Enrolla la masa firmemente desde uno de los extremos largos para formar un rollo largo.\n\n7. Corta el rollo en rodajas de aproximadamente 2-3 cm de grosor y colócalas en una bandeja para hornear engrasada o forrada con papel de hornear.\n\n8. Cubre los rollitos con un paño y deja que vuelvan a subir en un lugar cálido durante unos 30-45 minutos.\n\n9. Precalienta el horno a 180 °C. Hornea los rollitos de canela durante 20-25 minutos o hasta que estén dorados y cocidos.\n\n10. Mientras tanto, prepara el glaseado. En un tazón pequeño, mezcla el azúcar glass, la leche y el extracto de vainilla hasta obtener un glaseado suave.\n\n11. Una vez que los rollitos de canela estén listos, retíralos del horno y deja que se enfríen ligeramente. Luego, glasea los rollitos con el glaseado.\n\n12. Sirve los rollitos de canela tibios y disfrútalos con una taza de café o té."
+    },
+    {
+      "nombre": "Tarta de frutas",
+      "descripcion": "Tarta fresca y colorida con una mezcla de frutas de temporada",
+      "ingredientes": [
+        "1 masa de tarta",
+        "2 tazas de frutas de temporada (fresas, arándanos, kiwis, melocotones, etc.)",
+        "1/4 taza de azúcar",
+        "2 cucharadas de maicena",
+        "1 cucharadita de ralladura de limón",
+        "2 cucharadas de jugo de limón",
+        "2 cucharadas de mermelada de albaricoque (opcional)"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y prepara la masa de tarta en un molde para tarta. Reserva.\n\n2. Lava y corta las frutas de temporada en rodajas o trozos, según sea necesario.\n\n3. En un tazón grande, mezcla las frutas con el azúcar, la maicena, la ralladura de limón y el jugo de limón. Asegúrate de que las frutas estén bien cubiertas con la mezcla de azúcar y maicena.\n\n4. Vierte la mezcla de frutas sobre la masa de tarta preparada, distribuyéndola de manera uniforme.\n\n5. Hornea la tarta de frutas durante 30-35 minutos o hasta que la masa esté dorada y las frutas estén tiernas.\n\n6. Si lo deseas, calienta la mermelada de albaricoque en el microondas o en una cacerola pequeña hasta que esté líquida. Pincela la parte superior de la tarta con la mermelada caliente para darle un brillo adicional.\n\n7. Deja enfriar antes de servir. Esta tarta de frutas es deliciosa por sí sola o se puede servir con una bola de helado de vainilla."
+    },
+    {
+      "nombre": "Magdalenas de limón",
+      "descripcion": "Magdalenas esponjosas con un toque refrescante de limón",
+      "ingredientes": [
+        "2 tazas de harina",
+        "1 1/2 cucharaditas de levadura en polvo",
+        "1/2 cucharadita de bicarbonato de sodio",
+        "1/4 cucharadita de sal",
+        "1 taza de azúcar",
+        "Ralladura de 2 limones",
+        "1/2 taza de mantequilla derretida",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "1/2 taza de yogur griego",
+        "1/4 taza de jugo de limón",
+        "Para el glaseado:",
+        "1 taza de azúcar glass",
+        "2-3 cucharadas de jugo de limón",
+        "Ralladura de limón para decorar"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y prepara los moldes para magdalenas con papelitos.\n\n2. En un tazón, tamiza la harina, la levadura en polvo, el bicarbonato de sodio y la sal. Reserva.\n\n3. En otro tazón, mezcla el azúcar y la ralladura de limón hasta que estén bien combinados y fragantes.\n\n4. Agrega la mantequilla derretida, los huevos, el extracto de vainilla, el yogur griego y el jugo de limón al tazón de azúcar y ralladura de limón. Mezcla bien.\n\n5. Agrega la mezcla de ingredientes secos al tazón de ingredientes húmedos y mezcla hasta obtener una masa homogénea.\n\n6. Divide la masa entre los moldes para magdalenas, llenando cada uno aproximadamente 2/3 de su capacidad.\n\n7. Hornea las magdalenas de limón durante 15-18 minutos o hasta que estén doradas y cocidas. Inserta un palillo en el centro de una magdalena para verificar si está listo. Si sale limpio, están listas.\n\n8. Mientras las magdalenas se enfrían, prepara el glaseado mezclando el azúcar glass y el jugo de limón hasta obtener una consistencia suave y fluida.\n\n9. Una vez que las magdalenas estén completamente frías, glasea la parte superior de cada una con el glaseado de limón.\n\n10. Decora con ralladura de limón y sirve."
+    },
+    {
+      "nombre": "Tarta de chocolate y frutos rojos",
+      "descripcion": "Tarta decadente de chocolate con una mezcla de frutos rojos frescos",
+      "ingredientes": [
+        "Para la base:",
+        "1 1/2 tazas de galletas trituradas",
+        "1/4 taza de azúcar",
+        "1/2 taza de mantequilla derretida",
+        "Para el relleno de chocolate:",
+        "200 g de chocolate negro, picado",
+        "1 taza de crema para batir",
+        "3 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "Para la decoración:",
+        "1 taza de frutos rojos frescos (fresas, frambuesas, arándanos)",
+        "Azúcar glass para espolvorear"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C.\n\n2. En un tazón, mezcla las galletas trituradas, el azúcar y la mantequilla derretida. Presiona la mezcla de galletas en el fondo de un molde para tarta, asegurándote de cubrir toda la base.\n\n3. Hornea la base de galletas durante 10 minutos. Luego, retira del horno y deja enfriar.\n\n4. Mientras tanto, prepara el relleno de chocolate. En una cacerola, calienta la crema para batir hasta que comience a hervir. Retira del fuego y agrega el chocolate picado. Deja reposar durante unos minutos, luego revuelve hasta que el chocolate se derrita y la mezcla esté suave.\n\n5. En un tazón aparte, bate los huevos y el extracto de vainilla. Agrega la mezcla de huevos al tazón de chocolate derretido y mezcla hasta que estén bien combinados.\n\n6. Vierte el relleno de chocolate sobre la base de galletas enfriada.\n\n7. Hornea la tarta de chocolate durante 25-30 minutos o hasta que el centro esté ligeramente firme. Deja enfriar completamente.\n\n8. Una vez que la tarta esté fría, decora la parte superior con frutos rojos frescos y espolvorea con azúcar glass.\n\n9. Refrigera la tarta durante al menos 2 horas antes de servir. Disfruta de esta indulgente tarta de chocolate y frutos rojos."
+    },
+    {
+      "nombre": "Profiteroles de vainilla",
+      "descripcion": "Deliciosos profiteroles rellenos de crema de vainilla y cubiertos con chocolate",
+      "ingredientes": [
+        "1/2 taza de agua",
+        "1/4 taza de mantequilla",
+        "1/2 taza de harina",
+        "2 huevos",
+        "Para el relleno de crema de vainilla:",
+        "1 taza de leche",
+        "1/4 taza de azúcar",
+        "2 cucharadas de maicena",
+        "2 yemas de huevo",
+        "1 cucharadita de extracto de vainilla",
+        "Para la cobertura de chocolate:",
+        "100 g de chocolate negro, picado",
+        "1/4 taza de crema para batir",
+        "Azúcar glass para espolvorear"
+      ],
+      "instrucciones": "1. Precalienta el horno a 200 °C y forra una bandeja para hornear con papel de hornear.\n\n2. En una cacerola, lleva el agua y la mantequilla a ebullición. Reduce el fuego a medio-bajo y agrega la harina de una sola vez. Remueve constantemente hasta que la masa forme una bola y se separe de los bordes de la cacerola.\n\n3. Retira la masa del fuego y deja enfriar durante unos minutos. Luego, agrega los huevos uno a uno, batiendo bien después de cada adición, hasta que la masa esté suave y brillante.\n\n4. Coloca la masa en una manga pastelera con una boquilla redonda. Forma pequeños montículos de masa sobre la bandeja para hornear preparada.\n\n5. Hornea los profiteroles durante 20-25 minutos o hasta que estén dorados y cocidos. Luego, apaga el horno y deja los profiteroles en el horno apagado durante 5 minutos adicionales para que se sequen. Retíralos del horno y deja enfriar completamente.\n\n6. Mientras tanto, prepara el relleno de crema de vainilla. En una cacerola, calienta la leche hasta que comience a hervir. Mientras tanto, en un tazón aparte, mezcla el azúcar, la maicena y las yemas de huevo.\n\n7. Vierte lentamente la leche caliente sobre la mezcla de yemas de huevo, revolviendo constantemente.\n\n8. Regresa la mezcla a la cacerola y calienta a fuego medio, revolviendo constantemente, hasta que espese. Retira del fuego y agrega el extracto de vainilla. Deja enfriar completamente.\n\n9. Para la cobertura de chocolate, derrite el chocolate en un tazón sobre agua caliente o en el microondas. Agrega la crema para batir y mezcla hasta obtener una mezcla suave y brillante.\n\n10. Corta los profiteroles enfriados por la mitad y rellénalos con la crema de vainilla. Cubre con la cobertura de chocolate.\n\n11. Espolvorea los profiteroles con azúcar glass antes de servir. Disfruta de estos deliciosos profiteroles de vainilla."
+    },
+    {
+      "nombre": "Galletas de avena y pasas",
+      "descripcion": "Galletas suaves y llenas de sabor con avena y pasas",
+      "ingredientes": [
+        "1 1/2 tazas de harina",
+        "1 cucharadita de bicarbonato de sodio",
+        "1/2 cucharadita de sal",
+        "1 cucharadita de canela en polvo",
+        "1 taza de mantequilla derretida",
+        "1 taza de azúcar moreno",
+        "1/2 taza de azúcar",
+        "2 huevos",
+        "2 cucharaditas de extracto de vainilla",
+        "3 tazas de avena",
+        "1 taza de pasas"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y forra una bandeja para hornear con papel de hornear.\n\n2. En un tazón, combina la harina, el bicarbonato de sodio, la sal y la canela en polvo. Reserva.\n\n3. En otro tazón, mezcla la mantequilla derretida, el azúcar moreno y el azúcar hasta obtener una mezcla suave.\n\n4. Agrega los huevos y el extracto de vainilla a la mezcla de mantequilla y azúcar. Mezcla bien.\n\n5. Añade gradualmente la mezcla de harina a la mezcla de mantequilla, revolviendo hasta que esté bien combinado.\n\n6. Agrega la avena y las pasas, y mezcla hasta que estén distribuidas uniformemente en la masa.\n\n7. Forma pequeñas bolas de masa y colócalas en la bandeja para hornear preparada, dejando suficiente espacio entre cada galleta para que se expandan.\n\n8. Hornea las galletas de avena y pasas durante 10-12 minutos o hasta que estén doradas en los bordes.\n\n9. Retira las galletas del horno y déjalas enfriar en la bandeja durante unos minutos antes de transferirlas a una rejilla para que se enfríen por completo.\n\n10. Disfruta de estas deliciosas galletas de avena y pasas con una taza de leche o té."
+    },
+    {
+      "nombre": "Tartaletas de frutas",
+      "descripcion": "Mini tartaletas crujientes rellenas de crema y frutas frescas",
+      "ingredientes": [
+        "1 paquete de masa para tartaletas",
+        "1 taza de crema pastelera (puedes hacerla casera o utilizar una preenvasada)",
+        "Frutas frescas variadas (fresas, kiwis, arándanos, uvas, etc.)",
+        "Mermelada de albaricoque (opcional)",
+        "Azúcar glass para espolvorear"
+      ],
+      "instrucciones": "1. Precalienta el horno según las instrucciones del paquete de masa para tartaletas.\n\n2. Estira la masa para tartaletas y corta círculos del tamaño de tus moldes para tartaletas. Presiona suavemente cada círculo de masa en los moldes, asegurándote de cubrir completamente el fondo y los lados.\n\n3. Pincha la base de cada tartaleta con un tenedor para evitar que se infle durante el horneado.\n\n4. Hornea las tartaletas según las instrucciones del paquete de masa, o hasta que estén doradas y crujientes. Deja enfriar completamente.\n\n5. Mientras tanto, prepara la crema pastelera según las instrucciones del paquete o utilizando tu receta favorita.\n\n6. Una vez que las tartaletas estén frías, rellénalas con la crema pastelera.\n\n7. Lava y corta las frutas frescas en rodajas o trozos, según sea necesario.\n\n8. Decora cada tartaleta con las frutas frescas, colocándolas de manera creativa sobre la crema pastelera.\n\n9. Si lo deseas, calienta la mermelada de albaricoque en el microondas o en una cacerola pequeña hasta que esté líquida. Pincela ligeramente las frutas con la mermelada caliente para darles brillo.\n\n10. Espolvorea las tartaletas con azúcar glass justo antes de servir. Estas tartaletas de frutas son una deliciosa opción para una ocasión especial o un postre elegante."
+    },
+    {
+      "nombre": "Palmeritas de hojaldre",
+      "descripcion": "Deliciosas y crujientes palmeritas de hojaldre con azúcar",
+      "ingredientes": ["1 lámina de hojaldre rectangular", "Azúcar granulada"],
+      "instrucciones": "1. Precalienta el horno a 200 °C y forra una bandeja para hornear con papel de hornear.\n\n2. Espolvorea generosamente azúcar granulada sobre una superficie de trabajo limpia.\n\n3. Extiende la lámina de hojaldre sobre el azúcar, presionando suavemente para que se adhiera.\n\n4. Espolvorea más azúcar sobre la superficie del hojaldre.\n\n5. Doblada hacia el centro desde ambos lados largos del hojaldre, dejando un espacio entre los pliegues.\n\n6. Vuelve a espolvorear azúcar sobre la superficie del hojaldre doblado.\n\n7. Dobla el hojaldre por la mitad a lo largo, manteniendo el espacio entre los pliegues.\n\n8. Corta el hojaldre en rodajas de aproximadamente 1 cm de grosor.\n\n9. Coloca las rodajas de hojaldre en la bandeja para hornear preparada, dejando suficiente espacio entre ellas para que se expandan durante el horneado.\n\n10. Hornea las palmeritas de hojaldre durante 15-20 minutos o hasta que estén doradas y crujientes.\n\n11. Retira las palmeritas del horno y déjalas enfriar en la bandeja. A medida que se enfríen, se volverán más crujientes.\n\n12. Disfruta de estas deliciosas palmeritas de hojaldre como un tentempié dulce o un acompañamiento para el café o el té."
+    },
+    {
+      "nombre": "Tarta de manzana",
+      "descripcion": "Clásica tarta de manzana con una crujiente cubierta de migas",
+      "ingredientes": [
+        "Para la masa:",
+        "2 1/2 tazas de harina",
+        "1 cucharadita de sal",
+        "1 cucharadita de azúcar",
+        "225 g de mantequilla fría, cortada en cubos",
+        "1/4 a 1/2 taza de agua helada",
+        "Para el relleno de manzana:",
+        "5-6 manzanas (preferiblemente variedades firmes y ácidas, como Granny Smith)",
+        "1/2 taza de azúcar",
+        "1/4 taza de harina",
+        "1 cucharadita de canela en polvo",
+        "1/4 cucharadita de nuez moscada",
+        "Para la cubierta de migas:",
+        "1 taza de harina",
+        "1/2 taza de azúcar moreno",
+        "1/2 taza de mantequilla derretida",
+        "1 cucharadita de canela en polvo",
+        "Azúcar glass para espolvorear"
+      ],
+      "instrucciones": "1. Para la masa, en un tazón grande, mezcla la harina, la sal y el azúcar. Agrega la mantequilla fría y mezcla con un cortador de masa o con tus manos hasta que la mezcla tenga una textura de migas gruesas.\n\n2. Agrega gradualmente el agua helada, una cucharada a la vez, hasta que la masa se pueda juntar. No agregues demasiada agua, solo lo suficiente para que la masa se una.\n\n3. Divide la masa en dos partes, una ligeramente más grande que la otra. Envuelve cada porción en papel film y refrigera durante al menos 1 hora.\n\n4. Precalienta el horno a 200 °C y engrasa un molde para tarta.\n\n5. Para el relleno de manzana, pela, descorazona y corta las manzanas en rodajas finas. En un tazón, mezcla las rodajas de manzana, el azúcar, la harina, la canela y la nuez moscada hasta que las manzanas estén bien cubiertas.\n\n6. Saca la masa más grande del refrigerador y extiéndela en una superficie enharinada hasta que tenga aproximadamente 30 cm de diámetro. Coloca la masa en el molde para tarta, presionándola suavemente contra el fondo y los lados.\n\n7. Vierte el relleno de manzana sobre la masa en el molde para tarta.\n\n8. Para la cubierta de migas, en un tazón, mezcla la harina, el azúcar moreno, la mantequilla derretida y la canela hasta que se forme una textura de migas.\n\n9. Espolvorea la cubierta de migas sobre el relleno de manzana en el molde para tarta.\n\n10. Saca la masa más pequeña del refrigerador y extiéndela en una superficie enharinada hasta que tenga aproximadamente 25 cm de diámetro. Coloca la masa sobre la cubierta de migas en el molde para tarta.\n\n11. Presiona los bordes de las dos masas juntas y haz algunos cortes decorativos en la parte superior para que salga el vapor durante el horneado.\n\n12. Hornea la tarta de manzana durante 45-50 minutos o hasta que la masa esté dorada y el relleno de manzana burbujee.\n\n13. Retira la tarta del horno y deja que se enfríe antes de desmoldarla.\n\n14. Espolvorea la tarta de manzana con azúcar glass antes de servir. Disfruta de esta clásica tarta de manzana con una taza de té o helado de vainilla."
+    },
+    {
+      "nombre": "Magdalenas de limón",
+      "descripcion": "Magdalenas esponjosas con un delicioso sabor a limón",
+      "ingredientes": [
+        "1 3/4 tazas de harina",
+        "1 1/2 cucharaditas de polvo de hornear",
+        "1/2 cucharadita de sal",
+        "1/2 taza de mantequilla a temperatura ambiente",
+        "1 taza de azúcar",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "1/2 taza de leche",
+        "Ralladura de 2 limones",
+        "Zumo de 1 limón",
+        "Azúcar glass para espolvorear"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y coloca los moldes de papel para magdalenas en una bandeja para muffins.\n\n2. En un tazón, tamiza la harina, el polvo de hornear y la sal. Reserva.\n\n3. En otro tazón, bate la mantequilla y el azúcar hasta obtener una mezcla suave y esponjosa.\n\n4. Agrega los huevos, uno a uno, batiendo bien después de cada adición. Añade el extracto de vainilla y mezcla nuevamente.\n\n5. Agrega gradualmente la mezcla de harina a la mezcla de mantequilla, alternando con la leche. Comienza y termina con la mezcla de harina.\n\n6. Agrega la ralladura de limón y el zumo de limón a la masa, y mezcla hasta que estén bien incorporados.\n\n7. Divide la masa entre los moldes para magdalenas, llenando cada uno aproximadamente 2/3 de su capacidad.\n\n8. Hornea las magdalenas de limón durante 15-18 minutos o hasta que estén doradas en la parte superior y un palillo insertado en el centro salga limpio.\n\n9. Retira las magdalenas del horno y déjalas enfriar en la bandeja durante unos minutos antes de transferirlas a una rejilla para que se enfríen completamente.\n\n10. Espolvorea las magdalenas de limón con azúcar glass antes de servir. Estas magdalenas esponjosas y con sabor a limón son perfectas para disfrutar en el desayuno o la merienda."
+    },
+    {
+      "nombre": "Tarta de chocolate",
+      "descripcion": "Irresistible tarta de chocolate con una suave ganache",
+      "ingredientes": [
+        "Para la masa:",
+        "1 1/2 tazas de galletas trituradas (tipo galletas digestivas)",
+        "1/2 taza de mantequilla derretida",
+        "Para el relleno de chocolate:",
+        "200 g de chocolate semiamargo, picado",
+        "1 1/2 tazas de crema para batir (nata para montar)",
+        "2 cucharadas de azúcar",
+        "2 cucharaditas de extracto de vainilla",
+        "Para la ganache de chocolate:",
+        "1 taza de chocolate semiamargo, picado",
+        "1/2 taza de crema para batir (nata para montar)"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y engrasa un molde para tarta desmontable.\n\n2. En un tazón, mezcla las galletas trituradas y la mantequilla derretida hasta que los ingredientes estén bien combinados.\n\n3. Presiona la mezcla de galletas en el fondo del molde para tarta, asegurándote de cubrir completamente el fondo.\n\n4. Hornea la base de galleta durante 8-10 minutos. Luego, retira del horno y deja enfriar.\n\n5. Mientras tanto, prepara el relleno de chocolate. En un tazón resistente al calor, coloca el chocolate picado.\n\n6. En una cacerola pequeña, calienta la crema para batir y el azúcar a fuego medio hasta que esté caliente, pero no hierva. Retira del fuego y vierte la crema caliente sobre el chocolate picado. Deja reposar durante unos minutos.\n\n7. Agrega el extracto de vainilla al tazón con el chocolate y la crema, y mezcla hasta obtener una mezcla suave y brillante.\n\n8. Vierte el relleno de chocolate sobre la base de galleta enfriada en el molde para tarta.\n\n9. Refrigera la tarta de chocolate durante al menos 2 horas o hasta que el relleno esté firme.\n\n10. Mientras tanto, prepara la ganache de chocolate. En un tazón resistente al calor, coloca el chocolate picado.\n\n11. Calienta la crema para batir en una cacerola pequeña hasta que esté caliente, pero no hierva. Vierte la crema caliente sobre el chocolate picado y deja reposar durante unos minutos.\n\n12. Mezcla la ganache de chocolate hasta que esté suave y brillante.\n\n13. Vierte la ganache de chocolate sobre la tarta de chocolate refrigerada, asegurándote de cubrir toda la superficie.\n\n14. Refrigera la tarta de chocolate nuevamente durante al menos 1 hora o hasta que la ganache esté firme.\n\n15. Desmolda la tarta de chocolate y sírvela fría. Esta irresistible tarta de chocolate es un placer para los amantes del chocolate."
+    },
+    {
+      "nombre": "Tarta de queso",
+      "descripcion": "Clásica y deliciosa tarta de queso con una base de galletas",
+      "ingredientes": [
+        "Para la base:",
+        "1 1/2 tazas de galletas digestive trituradas",
+        "1/3 taza de mantequilla derretida",
+        "Para el relleno de queso:",
+        "900 g de queso crema",
+        "1 1/2 tazas de azúcar",
+        "4 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "Para la cobertura:",
+        "1 taza de mermelada de fresa (o tu sabor preferido)",
+        "Frutas frescas para decorar (opcional)"
+      ],
+      "instrucciones": "1. Precalienta el horno a 160 °C y engrasa un molde para tarta desmontable.\n\n2. En un tazón, mezcla las galletas trituradas y la mantequilla derretida hasta que los ingredientes estén bien combinados.\n\n3. Presiona la mezcla de galletas en el fondo del molde para tarta, asegurándote de cubrir completamente el fondo.\n\n4. En otro tazón, bate el queso crema y el azúcar hasta que estén suaves y cremosos.\n\n5. Agrega los huevos, uno a uno, batiendo bien después de cada adición. Añade el extracto de vainilla y mezcla nuevamente.\n\n6. Vierte la mezcla de queso crema sobre la base de galleta en el molde para tarta.\n\n7. Hornea la tarta de queso durante 45-50 minutos o hasta que el centro esté ligeramente tembloroso.\n\n8. Retira la tarta del horno y deja que se enfríe a temperatura ambiente durante 1 hora.\n\n9. Refrigera la tarta de queso durante al menos 4 horas o durante toda la noche para que se asiente y esté firme.\n\n10. Antes de servir, cubre la tarta de queso con mermelada de fresa u otra cobertura de tu elección.\n\n11. Si lo deseas, decora la tarta de queso con frutas frescas. Esta clásica y deliciosa tarta de queso es perfecta para cualquier ocasión especial o como un dulce capricho."
+    },
+    {
+      "nombre": "Cupcakes de vainilla",
+      "descripcion": "Cupcakes esponjosos de vainilla con una suave cobertura de crema de mantequilla",
+      "ingredientes": [
+        "1 1/2 tazas de harina",
+        "1 1/2 cucharaditas de polvo de hornear",
+        "1/4 cucharadita de sal",
+        "1/2 taza de mantequilla a temperatura ambiente",
+        "1 taza de azúcar",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "3/4 taza de leche",
+        "Para la crema de mantequilla:",
+        "1 taza de mantequilla a temperatura ambiente",
+        "4 tazas de azúcar glass",
+        "2 cucharaditas de extracto de vainilla",
+        "2-3 cucharadas de leche",
+        "Colorante alimentario (opcional)",
+        "Sprinkles para decorar (opcional)"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y coloca los moldes de papel para cupcakes en una bandeja para muffins.\n\n2. En un tazón, tamiza la harina, el polvo de hornear y la sal. Reserva.\n\n3. En otro tazón, bate la mantequilla y el azúcar hasta obtener una mezcla suave y esponjosa.\n\n4. Agrega los huevos, uno a uno, batiendo bien después de cada adición. Añade el extracto de vainilla y mezcla nuevamente.\n\n5. Agrega gradualmente la mezcla de harina a la mezcla de mantequilla, alternando con la leche. Comienza y termina con la mezcla de harina.\n\n6. Llena cada molde para cupcakes con la masa hasta aproximadamente 2/3 de su capacidad.\n\n7. Hornea los cupcakes de vainilla durante 15-18 minutos o hasta que estén dorados en la parte superior y un palillo insertado en el centro salga limpio.\n\n8. Retira los cupcakes del horno y déjalos enfriar en la bandeja durante unos minutos antes de transferirlos a una rejilla para que se enfríen completamente.\n\n9. Mientras tanto, prepara la crema de mantequilla. En un tazón, bate la mantequilla hasta que esté suave y esponjosa.\n\n10. Gradualmente, agrega el azúcar glass y continúa batiendo hasta obtener una mezcla suave y bien combinada.\n\n11. Añade el extracto de vainilla y la leche, y mezcla hasta que la crema de mantequilla tenga una consistencia suave y esponjosa.\n\n12. Si lo deseas, agrega colorante alimentario a la crema de mantequilla para darle color.\n\n13. Coloca la crema de mantequilla en una manga pastelera equipada con una boquilla de tu elección y decora los cupcakes enfriados.\n\n14. Decora los cupcakes con sprinkles si lo deseas. Estos cupcakes de vainilla esponjosos con crema de mantequilla son perfectos para celebraciones y fiestas."
+    },
+    {
+      "nombre": "Tarta de frutas",
+      "descripcion": "Tarta fresca y colorida con una mezcla de frutas de temporada",
+      "ingredientes": [
+        "Para la masa:",
+        "2 1/2 tazas de harina",
+        "1 cucharadita de sal",
+        "1 cucharadita de azúcar",
+        "1 taza de mantequilla fría, cortada en cubos",
+        "1/4 a 1/2 taza de agua helada",
+        "Para el relleno:",
+        "Frutas de temporada (fresas, arándanos, melocotones, kiwis, etc.)",
+        "2 cucharadas de azúcar",
+        "2 cucharadas de mermelada de albaricoque (opcional)"
+      ],
+      "instrucciones": "1. En un tazón grande, mezcla la harina, la sal y el azúcar.\n\n2. Agrega la mantequilla fría y mezcla con un tenedor o un cortador de masa hasta que la mezcla tenga una textura de migas.\n\n3. Agrega gradualmente el agua helada, una cucharada a la vez, hasta que la masa se una y sea fácil de manejar.\n\n4. Divide la masa en dos partes y forma dos discos. Envuelve cada disco en papel film y refrigéralos durante al menos 1 hora.\n\n5. Precalienta el horno a 200 °C.\n\n6. Saca uno de los discos de masa del refrigerador y extiéndelo en una superficie enharinada hasta que tenga aproximadamente 30 cm de diámetro. Coloca la masa en un molde para tarta, presionándola suavemente contra el fondo y los lados.\n\n7. Repite el proceso con el segundo disco de masa.\n\n8. Coloca las frutas de temporada en el molde para tarta, distribuyéndolas de manera uniforme.\n\n9. Espolvorea las frutas con azúcar y, si lo deseas, cubre la tarta con mermelada de albaricoque para darle brillo.\n\n10. Hornea la tarta de frutas durante 25-30 minutos o hasta que la masa esté dorada y las frutas estén tiernas.\n\n11. Retira la tarta del horno y deja que se enfríe antes de desmoldarla.\n\n12. Sirve la tarta de frutas sola o con una bola de helado de vainilla. Esta tarta fresca y colorida es perfecta para disfrutar en los meses más cálidos del año."
+    },
+    {
+      "nombre": "Croissants",
+      "descripcion": "Deliciosos croissants hojaldrados recién horneados",
+      "ingredientes": [
+        "Para la masa:",
+        "2 1/4 tazas de harina",
+        "1/4 taza de azúcar",
+        "1 1/2 cucharaditas de levadura seca",
+        "1/2 cucharadita de sal",
+        "3/4 taza de mantequilla fría, cortada en cubos",
+        "1/2 taza de leche",
+        "Para el laminado de mantequilla:",
+        "1/2 taza de mantequilla fría"
+      ],
+      "instrucciones": "1. En un tazón grande, mezcla la harina, el azúcar, la levadura seca y la sal.\n\n2. Agrega la mantequilla fría y mezcla con un tenedor o un cortador de masa hasta que la mezcla tenga una textura de migas.\n\n3. Agrega la leche y mezcla hasta que la masa se una.\n\n4. Amasa la masa sobre una superficie enharinada durante unos minutos hasta que esté suave y elástica.\n\n5. Cubre la masa con papel film y déjala reposar en el refrigerador durante al menos 1 hora.\n\n6. Para el laminado de mantequilla, coloca la mantequilla fría entre dos hojas de papel encerado y golpea suavemente con un rodillo para ablandarla.\n\n7. Extiende la masa en forma de rectángulo sobre una superficie enharinada.\n\n8. Coloca la lámina de mantequilla en el centro de la masa y dobla los bordes de la masa sobre la mantequilla, sellando bien.\n\n9. Gira la masa 90 grados y extiéndela nuevamente en forma de rectángulo.\n\n10. Dobla la masa en tercios, como si estuvieras doblando una carta.\n\n11. Envuelve la masa en papel film y refrigérala durante al menos 1 hora.\n\n12. Repite los pasos 9-11 dos veces más, refrigerando la masa entre cada doblado.\n\n13. Después del último doblado, refrigera la masa durante al menos 4 horas o durante toda la noche.\n\n14. Precalienta el horno a 200 °C.\n\n15. Saca la masa del refrigerador y extiéndela en forma de rectángulo sobre una superficie enharinada.\n\n16. Corta triángulos de masa y enróllalos desde la base hasta la punta para formar los croissants.\n\n17. Coloca los croissants en una bandeja para hornear forrada con papel encerado, dejando espacio entre ellos.\n\n18. Cubre los croissants con un paño limpio y déjalos reposar durante 1-2 horas o hasta que hayan duplicado su tamaño.\n\n19. Hornea los croissants durante 15-20 minutos o hasta que estén dorados y hojaldrados.\n\n20. Retira los croissants del horno y déjalos enfriar en una rejilla antes de servir. Estos deliciosos croissants recién horneados son perfectos para disfrutar en el desayuno o la merienda."
+    },
+    {
+      "nombre": "Tartaleta de frutas",
+      "descripcion": "Tartaletas crujientes rellenas de frutas frescas",
+      "ingredientes": [
+        "Para la masa:",
+        "1 1/2 tazas de harina",
+        "1/4 taza de azúcar",
+        "1/4 cucharadita de sal",
+        "1/2 taza de mantequilla fría, cortada en cubos",
+        "1 yema de huevo",
+        "2-3 cucharadas de agua fría",
+        "Para el relleno de frutas:",
+        "Frutas frescas de tu elección (fresas, arándanos, melocotones, kiwis, etc.)",
+        "1/4 taza de mermelada de albaricoque",
+        "2 cucharadas de agua"
+      ],
+      "instrucciones": "1. En un tazón, mezcla la harina, el azúcar y la sal.\n\n2. Agrega la mantequilla fría y mezcla con un tenedor o un cortador de masa hasta que la mezcla tenga una textura de migas.\n\n3. Agrega la yema de huevo y el agua fría, y mezcla hasta que la masa se una.\n\n4. Amasa la masa sobre una superficie enharinada hasta que esté suave y elástica.\n\n5. Envuelve la masa en papel film y refrigérala durante al menos 1 hora.\n\n6. Precalienta el horno a 180 °C.\n\n7. Saca la masa del refrigerador y extiéndela sobre una superficie enharinada.\n\n8. Corta círculos de masa del tamaño de tus moldes para tartaletas y coloca cada círculo de masa en un molde para tartaleta.\n\n9. Pincha ligeramente el fondo de cada tartaleta con un tenedor.\n\n10. Hornea las tartaletas durante 12-15 minutos o hasta que estén doradas y crujientes.\n\n11. Mientras tanto, prepara el relleno de frutas. Lava y corta las frutas frescas en rodajas o trozos.\n\n12. En una cacerola pequeña, calienta la mermelada de albaricoque y el agua a fuego medio hasta que se derrita y se vuelva suave.\n\n13. Retira las tartaletas del horno y déjalas enfriar en una rejilla.\n\n14. Rellena cada tartaleta con las frutas frescas y pinta ligeramente las frutas con la mezcla de mermelada de albaricoque para darles brillo.\n\n15. Sirve las tartaletas de frutas como postre o merienda. Estas tartaletas crujientes rellenas de frutas frescas son un deleite para los amantes de los postres frutales."
+    },
+    {
+      "nombre": "Galletas de chocolate y nueces",
+      "descripcion": "Galletas crujientes de chocolate con trozos de nueces",
+      "ingredientes": [
+        "1 3/4 tazas de harina",
+        "1/2 taza de cacao en polvo",
+        "1/2 cucharadita de bicarbonato de sodio",
+        "1/4 cucharadita de sal",
+        "1 taza de mantequilla a temperatura ambiente",
+        "3/4 taza de azúcar",
+        "3/4 taza de azúcar moreno",
+        "2 huevos",
+        "1 cucharadita de extracto de vainilla",
+        "1 taza de nueces picadas",
+        "1 taza de chispas de chocolate"
+      ],
+      "instrucciones": "1. Precalienta el horno a 180 °C y forra una bandeja para hornear con papel encerado.\n\n2. En un tazón, mezcla la harina, el cacao en polvo, el bicarbonato de sodio y la sal.\n\n3. En otro tazón, bate la mantequilla, el azúcar y el azúcar moreno hasta obtener una mezcla suave y esponjosa.\n\n4. Agrega los huevos, uno a uno, batiendo bien después de cada adición. Añade el extracto de vainilla y mezcla nuevamente.\n\n5. Agrega gradualmente la mezcla de harina a la mezcla de mantequilla, batiendo hasta que se combine.\n\n6. Agrega las nueces picadas y las chispas de chocolate y mezcla hasta que estén distribuidas de manera uniforme en la masa.\n\n7. Con una cuchara para helados, forma bolas de masa y colócalas en la bandeja para hornear, dejando espacio entre ellas.\n\n8. Aplasta ligeramente cada bola de masa con la palma de tu mano.\n\n9. Hornea las galletas durante 10-12 minutos o hasta que estén firmes al tacto.\n\n10. Retira las galletas del horno y déjalas enfriar en la bandeja durante unos minutos antes de transferirlas a una rejilla para que se enfríen completamente.\n\n11. Sirve las galletas de chocolate y nueces como merienda o postre. Estas galletas crujientes de chocolate con trozos de nueces son perfectas para los amantes del chocolate."
+    },
+    {
+      "nombre": "Tarta de limón",
+      "descripcion": "Tarta refrescante de limón con una suave cobertura de merengue",
+      "ingredientes": [
+        "Para la masa:",
+        "1 1/2 tazas de harina",
+        "1/2 taza de mantequilla fría, cortada en cubos",
+        "1/4 taza de azúcar",
+        "1 huevo",
+        "Para el relleno de limón:",
+        "4 huevos",
+        "1 taza de azúcar",
+        "1/2 taza de jugo de limón",
+        "2 cucharaditas de ralladura de limón",
+        "Para el merengue:",
+        "4 claras de huevo",
+        "1 taza de azúcar"
+      ],
+      "instrucciones": "1. En un tazón, mezcla la harina, la mantequilla y el azúcar hasta que la mezcla tenga una textura de migas.\n\n2. Agrega el huevo y mezcla hasta que la masa se una.\n\n3. Amasa la masa sobre una superficie enharinada hasta que esté suave y elástica.\n\n4. Envuelve la masa en papel film y refrigérala durante al menos 1 hora.\n\n5. Precalienta el horno a 180 °C.\n\n6. Saca la masa del refrigerador y extiéndela sobre una superficie enharinada.\n\n7. Coloca la masa en un molde para tarta y presiónala suavemente contra el fondo y los lados.\n\n8. Pincha ligeramente el fondo de la masa con un tenedor.\n\n9. Hornea la base de la tarta durante 10-12 minutos o hasta que esté ligeramente dorada.\n\n10. Mientras tanto, prepara el relleno de limón. En un tazón, bate los huevos, el azúcar, el jugo de limón y la ralladura de limón hasta obtener una mezcla suave.\n\n11. Vierte el relleno de limón sobre la base de la tarta parcialmente horneada.\n\n12. Hornea la tarta durante 15-20 minutos adicionales o hasta que el relleno esté firme.\n\n13. Mientras la tarta se enfría, prepara el merengue. En un tazón, bate las claras de huevo hasta que estén espumosas.\n\n14. Agrega el azúcar gradualmente y sigue batiendo hasta que se formen picos firmes.\n\n15. Cubre la tarta de limón con el merengue, asegurándote de cubrir completamente el relleno.\n\n16. Hornea la tarta durante unos minutos más para dorar ligeramente el merengue.\n\n17. Retira la tarta del horno y déjala enfriar completamente antes de servir. Esta tarta de limón refrescante con una suave cobertura de merengue es perfecta para los amantes de los postres cítricos."
+    }
+  ]
+}

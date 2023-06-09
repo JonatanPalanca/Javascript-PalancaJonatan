@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisEntityQRModalLazy_DEPRECATED",["JSResourceForInteraction","PolarisAsyncComponent","react","xigRequireInterop"],(function(a,b,c,d,e,f,g){"use strict";d("react");a=d("PolarisAsyncComponent").createAsyncComponent_DEPRECATED({displayName:"EntityQRModal",resolve:function(){return c("JSResourceForInteraction")("PolarisEntityQRModal.react").__setRef("PolarisEntityQRModalLazy_DEPRECATED").load().then(function(a){return c("xigRequireInterop")(a)})}});b=a;g["default"]=b}),98);

@@ -449,7 +449,7 @@ a:active {
 .carrito-vaciar:hover {
   background-color: #c9302c;
 }
-/* fin agregago */
+/* fin agregado */
 
 .texto-platillos {
   text-align: center;
@@ -607,6 +607,124 @@ a:active {
   color: var(--blanco);
   padding: 2rem;
   font-size: 2rem;
+}
+
+/*recetas*/
+.recetas-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: none;
+  z-index: 9999;
+  overflow-y: auto;
+}
+
+.recetas-container {
+  position: relative;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+}
+
+.receta-container {
+  margin-bottom: 20px;
+}
+
+/* Estilos para los botones "Siguiente" y "Anterior" */
+#btnAnterior,
+#btnSiguiente {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+#btnAnterior:hover,
+#btnSiguiente:hover {
+  background-color: #45a049;
+}
+
+/* Estilos para el botón "Cerrar" */
+#btnCerrar {
+  background-color: #f44336;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#btnCerrar:hover {
+  background-color: #d32f2f;
+}
+
+/* Estilos para el botón "Recetas" */
+#btnRecetas {
+  background-color: #2196f3;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#btnRecetas:hover {
+  background-color: #1976d2;
+}
+
+/*prueba*/
+/* Estilos para el contenedor de las recetas */
+#recetaContainer {
+  max-height: 500px; /* Altura máxima del contenedor */
+  overflow-y: auto; /* Habilitar el desplazamiento vertical si se excede la altura */
+  padding: 10px;
+}
+
+/* Estilos para cada receta individual */
+.receta {
+  background-color: #f1f1f1;
+  border-radius: 4px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.receta h2 {
+  color: #333;
+}
+
+.receta p {
+  color: #666;
+}
+
+.receta h4 {
+  color: #888;
+}
+
+.receta ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.receta li {
+  color: #555;
+}
+.recetas-container.fixed {
+  position: fixed;
+  top: 50%; /* Posición vertical en el centro */
+  left: 50%; /* Posición horizontal en el centro */
+  transform: translate(-50%, -50%); /* Centrar el contenedor */
+  max-height: 500px; /* Altura máxima del contenedor */
+  overflow-y: auto; /* Habilitar el desplazamiento vertical si se excede la altura */
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 4px;
 }
 
 /*# sourceMappingURL=style.css.map */

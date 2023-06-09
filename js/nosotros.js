@@ -1,4 +1,5 @@
 //---MENU--//
+
 const eventos = () => {
   menu.addEventListener("click", abrirMenu);
 };
@@ -47,6 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fetch(`https://api.pexels.com/v1/search?query=cake&per_page=${perPage}`, {
       headers: {
         Authorization: apiKey,
+        "Set-Cookie": "SameSite=None; Secure",
       },
     })
       .then((response) => response.json())
@@ -76,7 +78,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const changePhotoButton = document.createElement("button");
   changePhotoButton.classList.add("change-photo-button");
-  changePhotoButton.innerText = "Cambiar Foto";
+  changePhotoButton.innerText = "Fotos";
   changePhotoButton.addEventListener("click", changePhoto);
 
   const buttonContainer = document.createElement("div");
@@ -88,4 +90,90 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Obtener las 10 fotos cuando la página se carga por primera vez
   fetchPhotos();
+});
+
+//recetas
+
+document.addEventListener("DOMContentLoaded", async () => {
+  // Cargar las recetas desde el archivo JSON
+  const response = await fetch("../recetas.json");
+  const data = await response.json();
+  const recetas = data.recetas;
+
+  // Obtener los elementos del DOM
+  const btnRecetas = document.getElementById("btnRecetas");
+  const recetasOverlay = document.getElementById("recetasOverlay");
+  const recetaContainer = document.getElementById("recetaContainer");
+  const btnCerrar = document.getElementById("btnCerrar");
+  const btnAnterior = document.getElementById("btnAnterior");
+  const btnSiguiente = document.getElementById("btnSiguiente");
+
+  // Mostrar el overlay de recetas al hacer clic en el botón "Recetas"
+  btnRecetas.addEventListener("click", () => {
+    recetasOverlay.style.display = "block";
+    recetaContainer.classList.add("fixed"); // Agregar la clase "fixed" al contenedor
+    mostrarRecetas();
+  });
+
+  // Cerrar el overlay de recetas al hacer clic en el botón "Cerrar"
+  btnCerrar.addEventListener("click", () => {
+    recetasOverlay.style.display = "none";
+    recetaContainer.classList.remove("fixed"); // Eliminar la clase "fixed" del contenedor
+    recetaContainer.innerHTML = "";
+  });
+
+  // Variables para realizar el seguimiento de la receta actual
+  let recetaActual = 0;
+
+  // Función para mostrar las recetas en el overlay
+  function mostrarRecetas() {
+    const receta = recetas[recetaActual];
+    recetaContainer.innerHTML = "";
+
+    const recetaHTML = `
+      <div class="receta">
+        <h2>${receta.nombre}</h2>
+        <p>${receta.descripcion}</p>
+        <h4>Ingredientes:</h4>
+        <ul>
+          ${receta.ingredientes
+            .map((ingrediente) => `<li>${ingrediente}</li>`)
+            .join("")}
+        </ul>
+        <h4>Instrucciones:</h4>
+        <p>${receta.instrucciones}</p>
+      </div>
+    `;
+
+    // Agregar la receta al contenedor
+    recetaContainer.innerHTML += recetaHTML;
+  }
+
+  // Función para mostrar la receta anterior
+  function mostrarRecetaAnterior() {
+    recetaActual--;
+    if (recetaActual < 0) {
+      recetaActual = recetas.length - 1;
+    }
+    mostrarRecetas();
+  }
+
+  // Función para mostrar la siguiente receta
+  function mostrarRecetaSiguiente() {
+    recetaActual++;
+    if (recetaActual >= recetas.length) {
+      recetaActual = 0;
+    }
+    mostrarRecetas();
+  }
+
+  // Navegar a la receta anterior
+  btnAnterior.addEventListener("click", () => {
+    mostrarRecetaAnterior();
+  });
+
+  // Navegar a la siguiente receta
+  btnSiguiente.addEventListener("click", () => {
+    mostrarRecetaSiguiente();
+  });
 });
